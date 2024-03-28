@@ -1,2 +1,2 @@
-# amazon-dashboard
-clone
+final amazon.html
+
