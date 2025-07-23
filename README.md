@@ -2,9 +2,6 @@
 
 This is a static **Amazon Clone** frontend project created using **HTML** and **CSS**. It replicates the layout and design of the Amazon homepage, focusing on responsiveness, UI components, and basic user interaction visuals.
 
-## 🌐 Live Demo
-*You can host this project on GitHub Pages or Netlify and add the link here.*
-
 ## 📸 Screenshots
 
 <img width="1365" height="648" alt="image" src="https://github.com/user-attachments/assets/abd76691-49c8-4645-9531-2bc28ac00ec0" />
