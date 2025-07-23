@@ -7,9 +7,8 @@ This is a static **Amazon Clone** frontend project created using **HTML** and **
 
 ## 📸 Screenshots
 
-| Homepage Layout |
-|------------------|
-| *Insert screenshot here once hosted* |
+<img width="1365" height="648" alt="image" src="https://github.com/user-attachments/assets/abd76691-49c8-4645-9531-2bc28ac00ec0" />
+
 
 ## 🚀 Features
 
